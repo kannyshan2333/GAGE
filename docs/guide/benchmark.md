@@ -452,4 +452,4 @@ python run.py \
   --run-id forecastbench_full
 ```
 
-For a full run, point `FORECASTBENCH_QUESTION_SET_PATH` / `FORECASTBENCH_RESOLUTION_SET_PATH` at real ForecastBench exports. The bundled files under `tests/fixtures/forecastbench/` are only for unit tests and quick pipeline checks. See `docs/forecastbench/casestudy.md` for the full integration guide, trust validation notes, and case studies.
+For a full run, point `FORECASTBENCH_QUESTION_SET_PATH` / `FORECASTBENCH_RESOLUTION_SET_PATH` at real ForecastBench exports. The bundled files under `tests/fixtures/forecastbench/` are only for unit tests and quick pipeline checks. See `docs/forecastbench/README.md` for the integration guide.

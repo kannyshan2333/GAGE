@@ -518,4 +518,4 @@ python run.py \
   --run-id forecastbench_full
 ```
 
-全量运行时，请通过环境变量 `FORECASTBENCH_QUESTION_SET_PATH`、`FORECASTBENCH_RESOLUTION_SET_PATH` 指向真实 ForecastBench 题目集与结算集；仓库内 `tests/fixtures/forecastbench/` 仅用于单测和快速链路验证。完整接入说明、可信度验证和 case study 见 `docs/forecastbench/casestudy.md`。
+全量运行时，请通过环境变量 `FORECASTBENCH_QUESTION_SET_PATH`、`FORECASTBENCH_RESOLUTION_SET_PATH` 指向真实 ForecastBench 题目集与结算集；仓库内 `tests/fixtures/forecastbench/` 仅用于单测和快速链路验证。接入说明见 `docs/forecastbench/README.md`。
